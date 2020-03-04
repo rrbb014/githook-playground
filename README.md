@@ -1,3 +1,3 @@
 # githook-playground
 
-For practice githook
+practice githook
